@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prajyotkcsu
 - 👀 I’m interested in building apis and microservices that uses distributed system architecture.
-- 🌱 I’m currently learning stream processing and ways data science pipelines utilise backend infra.
+- 🌱 I’m currently learning stream processing and ways data science pipelines utilize backend infra.
 - 💞️ I’m looking to collaborate on building video streams on blockchain
 - 📫 How to reach me: prajyotkcsu@gmail.com
 - 😄 Pronouns: He/His
