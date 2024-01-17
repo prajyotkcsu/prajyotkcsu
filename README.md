@@ -8,6 +8,7 @@
 - ⚡ Cool projects:
 - 1) video-streaming (sends notifications about post-upload events)
 - 2) Remind GTP (assists you to remember chores and basic day-to-day activities like taking out trash, or sometimes sending invite to an old friend for your daughter's bday)
+  3) Find nearest restaurant serving butter chicken
 
 <!---
 prajyotkcsu/prajyotkcsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
