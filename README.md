@@ -6,9 +6,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a huge fan of rock music and loves to play guitar.
 - ⚡ Cool projects:
-- 1) video-streaming (sends notifications about post-upload events)
-- 2) Remind GTP (assists you to remember chores and basic day-to-day activities like taking out trash, or sometimes sending invite to an old friend for your daughter's bday)
-  3) Find nearest restaurant serving butter chicken
+- 1) Video-streaming (sends notifications about post-upload events)
+- 2) Remind-GTP (assists you to remember chores and basic day-to-day activities like taking out trash, or sometimes sending invite to an old friend for your daughter's bday)
+  3) Restaurant-recommendation system(recommends nearest restaurant like place that serves butter chicken, and you can also see who in your insta friends have tried it later upgrade)
 
 <!---
 prajyotkcsu/prajyotkcsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
