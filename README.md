@@ -4,9 +4,9 @@
 - 📫 How to reach me: prajyotkcsu@gmail.com
 - ⚡ Fun fact: I'm a huge fan of rock music and loves to play guitar.
 - ⚡ Cool projects:
-- 1) Video-streaming (upload video and receive notification of it's completion)
+- ##1) Video-streaming (upload video and receive notification of it's completion)
      ▶️ this project demonstrate my understanding of how event-driven systems are built.
-- 2) Remind-GTP (This app reads your morning todo list:[take out trash, call mom, or order cake before 10pm], and assists you to achieve them between work.)
+- ##2) Remind-GTP (This app reads your morning todo list:[take out trash, call mom, or order cake before 10pm], and assists you to achieve them between work.)
          💠💠 this project taugh me how Kafka can be uses a) as a primary source of storage
            b) to store similar things on same partitions(like java collection class) and process each from various partitions parallely.
 
