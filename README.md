@@ -4,9 +4,14 @@
 - 📫 How to reach me: prajyotkcsu@gmail.com
 - ⚡ Fun fact: I'm a huge fan of rock music and loves to play guitar.
 - ⚡ Cool projects:
-- 1) Video-streaming (sends notifications about post-upload events)
-- 2) Remind-GTP (assists you to remember chores and basic day-to-day activities like taking out trash, or sometimes sending invite to an old friend for your daughter's bday)
-  3) Restaurant-recommendation system(recommends nearest restaurant like place that serves butter chicken, and you can also see who in your insta friends have tried it later upgrade)
+- 1) Video-streaming (upload video and receive notification of it's completion)
+     ▶️ this project demonstrate my understanding of how event-driven systems are built.
+- 2) Remind-GTP (This app reads your morning todo list:[take out trash, call mom, or order cake before 10pm], and assists you to achieve them between work.)
+         💠💠 this project taugh me how Kafka can be uses a) as a primary source of storage
+           b) to store similar things on same partitions(like java collection class) and process each from various partitions parallely.
+
+  3) Restaurant-recommendation system(helps you find nearest restaurant based on fine grained specifications like [user query: Check for a place that serves butter chicken, has 5-star ratings, and has been eaten at by at least 10 of my friends)
+      🍕🌏 this project demonstrates the power of Elasticsearch, and how indexing and querying works.
 
 <!---
 prajyotkcsu/prajyotkcsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
